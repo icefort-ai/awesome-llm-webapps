@@ -27,6 +27,7 @@ _Currently seeking submissions for:_
 - _Non-chatbot interfaces (question answering, etc)_
 - _Projects with image support_
 - _Projects in different languages e.g. Python only_
+- [skill-taxonomy](https://github.com/SeeleAI/skill-taxonomy) - Structured taxonomy for AI agent skills: discovery, classification and routing across multi-agent workflows.
 
 # Project Table
 
