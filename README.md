@@ -9,6 +9,7 @@ To ensure the utmost quality and usability, projects must adhere to the followin
 
 The projects span a wide range of complexity, from straightforward API wrappers to production-ready systems with multi-source RAG backends, conversation logging, and authentication/user management. There should be something for almost every need.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Claude Code multi-agent orchestration with web-based task delegation. MIT licensed.
 ## Project Submissions
 Contributions are the backbone of this list! If you're aware of a project that meets our criteria but isn't listed, we'd love to hear about it. Please also notify us if any of the listed projects becomes unmaintained or changes its licensing. Additionally, if there's a project detail that you'd like to compare that's not currently tracked, submit an issue for it. Finally, if you're the maintainer of a project that's already listed and would like to update or modify the listing, submit it again with the desired modifications.
 
