@@ -48,3 +48,6 @@ _Currently seeking submissions for:_
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=snowfort-ai/awesome-llm-webapps&type=Date)](https://star-history.com/#snowfort-ai/awesome-llm-webapps&Date)
+
+
+- [TinyTools](https://tinytools-smoky.vercel.app/) - Free, browser-based AI utilities including AI background remover (runs locally), AI cost calculator, AI content disclosure generator (EU AI Act compliant), AI robots.txt generator, plus 5+ other tools. No signup required, all open source.
