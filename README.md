@@ -27,6 +27,7 @@ _Currently seeking submissions for:_
 - _Non-chatbot interfaces (question answering, etc)_
 - _Projects with image support_
 - _Projects in different languages e.g. Python only_
+- [Pixel Pet](https://letmethink.cc/app/pixel-pet/) - Turn a personality description into a deterministic ASCII pixel companion in the browser.
 
 # Project Table
 
