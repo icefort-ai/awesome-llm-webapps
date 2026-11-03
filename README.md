@@ -12,6 +12,9 @@ To ensure the utmost quality and usability, projects must adhere to the followin
 | [Alors On Danse Video Maker](https://alorsondansevideo.com) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid |
 | [Bad Times AI](https://badtimesai.dev) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid |
 | [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid |
+| [KDA Firestarter AI Dance AI Dance Dance](https://kdafirestarterai.dev) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid |
+| [A2O LITE NEON AI Dance AI Dance](https://a2oliteai.org) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid |
+| [dime dime baby ai](https://dimedimebabyai.dev) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid |
 
 The projects span a wide range of complexity, from straightforward API wrappers to production-ready systems with multi-source RAG backends, conversation logging, and authentication/user management. There should be something for almost every need.
 
